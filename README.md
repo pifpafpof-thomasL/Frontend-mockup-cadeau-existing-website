@@ -1,13 +1,14 @@
 
+
 Let's re-engineer the UX of an existing website
 =========================
-* the goal is to produce the wireframes: one for smarphone, and one for desktop PC/Mac
+* the goal is to produce two wireframes: one for smarphones, and one for desktop PC/Mac
 * and then to produce the smartphone mockup
 
-* this future web app will help the user to select the right present depending on the profile of the personn who receives the gilt
+* this app  helps a user to select the right gift depending on the profile of the personn who will receive the present
 * differents criterias, to find the right gift, are suggested on the mockup
 * we used pencil https://github.com/prikhi/pencil to create the html output (it is exported as single page)
-* the buttons on the mockup are the dynamic parts i.e. they are linking the application pages
+* the buttons on the mockup are the dynamic parts i.e. they link the different pages
 
 Re-ingénierie de l'UX d'un site existant
 =========================
@@ -38,3 +39,5 @@ Le design est basé sur les users story (méthode agile) suivants:
 * En tant qu'administrateur, je veux ajouter des idées au catalogue.
 
 * En tant qu'administrateur, je veux associer des sites commerçant à chaque idée du catalogue.
+
+Ce travail est basé sur un cours de Jérémie Pardou https://github.com/jrmi
