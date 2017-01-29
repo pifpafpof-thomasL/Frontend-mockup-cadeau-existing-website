@@ -41,3 +41,10 @@ Le design est basé sur les users story (méthode agile) suivants:
 * En tant qu'administrateur, je veux associer des sites commerçant à chaque idée du catalogue.
 
 Ce travail est basé sur un cours de Jérémie Pardou https://github.com/jrmi
+
+Voici le mockup statique
+=======================
+Le mockup dynamique est disponible en téléchargeant les fichiers 
+https://github.com/pifpafpof-thomasL/Frontend-mockup-cadeau-existing-website/tree/master/cadeaux
+
+![](wireframe_and_mockup_cadeaux/homepage.png 1-1.png?raw=true)
